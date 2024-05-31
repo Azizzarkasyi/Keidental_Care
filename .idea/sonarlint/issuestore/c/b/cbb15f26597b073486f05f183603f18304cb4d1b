@@ -1,5 +1,14 @@
 
-Vkotlin:S1172"2Use "_" instead of these unused lambda parameters.(ççÓÙşÿÿÿÿ8‰’Ï™¾1
-9kotlin:S1128"Remove this unused import.(±Ğ½ø8Œ’Ï™¾1
-okotlin:S101"QRename class "Daftar_Antrian" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(ü€¤ß8Œ’Ï™¾1
-tkotlin:S1192"PDefine a constant instead of duplicating this literal "Kosdultasi Gigi" 7 times.(¥ùüšüÿÿÿÿ8’Ï™¾1
+okotlin:S6508w"*Replace this usage of Void type with Unit.(”¾™á8ü´Ë•Ö1J$dcaa1bf6-4096-4033-8c9b-43ac85f1fc19
+tkotlin:S6508x"*Replace this usage of Void type with Unit.(´‹¦”ıÿÿÿÿ8ü´Ë•Ö1J$da427f4c-72c5-44c1-8c8a-5eff962685c3
+tkotlin:S6508x"*Replace this usage of Void type with Unit.(´‹¦”ıÿÿÿÿ8ü´Ë•Ö1J$55a93d0b-1616-4903-a1cb-2d50e45928ff
+ukotlin:S6508‘"*Replace this usage of Void type with Unit.(ºÔÂşÿÿÿÿ8ü´Ë•Ö1J$2a0e4a64-849f-43bd-9cb4-78c5c0ce051f
+•kotlin:S101"QRename class "Daftar_Antrian" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(ü€¤ß8Œ’Ï™¾1J$b66a4924-2f5c-431a-b1be-7eb2e1b6affd
+mkotlin:S1874m"#Deprecated code should not be used.(òõâ£şÿÿÿÿ8•µË•Ö1J$b3768495-b4b2-4b95-bfed-2f9166ab8801
+hkotlin:S1874n"#Deprecated code should not be used.(Œ„¿È8•µË•Ö1J$23a8788c-3cbb-4d1a-98b6-7154fbbea763
+mkotlin:S1874"#Deprecated code should not be used.(·•¥¦ûÿÿÿÿ8•µË•Ö1J$d030c335-22f0-4121-b2c4-e94d01318eef
+mkotlin:S1874m"#Deprecated code should not be used.(òõâ£şÿÿÿÿ8•µË•Ö1J$7bf3dc5b-4776-4701-846a-1f2a627a6b03
+vkotlin:S6518H",Replace function call with indexed accessor.(áğÔûÿÿÿÿ8ŸµË•Ö1J$39b62212-0a67-4f60-a191-9d58e4da57c5
+vkotlin:S6518I",Replace function call with indexed accessor.(€íÙóüÿÿÿÿ8ŸµË•Ö1J$2f193b8a-6b5a-4a10-85ff-05ca52d68a37
+vkotlin:S6518J",Replace function call with indexed accessor.(†–ÔÕşÿÿÿÿ8ŸµË•Ö1J$4d0708c2-4d20-4a94-87de-6c2ad5f0a606
+qkotlin:S6518P",Replace function call with indexed accessor.(‚›²È8ŸµË•Ö1J$8b527ac5-51cc-4b84-8b5a-406b73a2daef

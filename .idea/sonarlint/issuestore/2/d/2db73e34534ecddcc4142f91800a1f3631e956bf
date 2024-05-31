@@ -1,2 +1,6 @@
 
-Lkotlin:S108")Either remove or fill this block of code.(±ß–ûÿÿÿÿ8’•©œÂ1
+Lkotlin:S108p")Either remove or fill this block of code.(€¸¦’üÿÿÿÿ8¦ªÏ1
+:kotlin:S6530I"Remove this unchecked cast.(àÙä¢8ÈÊ¬æÑ1
+vkotlin:S37761"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¶Á»¬şÿÿÿÿ8µªÏ1
+lkotlin:S6516®"LReplace explicit functional interface implementation with lambda expression.(Œ•ˆ8¸ªÏ1
+€kotlin:S3923Í"[Remove this conditional structure or edit its code blocks so that they're not all the same.(î’Ø¼ıÿÿÿÿ8»ªÏ1
